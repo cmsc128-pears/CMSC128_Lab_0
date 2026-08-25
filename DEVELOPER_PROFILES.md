@@ -23,3 +23,11 @@
 - Tools: Figma, VSCode, Github
 - Field of Focus in Computer Science: Web Development, HCI
 - Fun Fact or Goal: Improve my sense for UI/UX design and build good software development habits.
+
+## Erine Lourdes L. Medalla
+
+- Preferred Name: rine
+- Skills: Python, Java, HTML, Javascript, CSS, GDScript, PHP, C, UI design
+- Tools: Figma, VSCode, Github, Godot 4
+- Field of Focus in Computer Science: Software Engineering, Web Development, HCI, Database Systems
+- Fun Fact or Goal: Interested in exploring cybersecurity and want to learn the fundamentals of ethical hacking/pentesting.
