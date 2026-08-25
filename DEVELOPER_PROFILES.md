@@ -15,3 +15,11 @@
 - Tools: VS Code, GitHub Desktop
 - Field of Focus in Computer Science: Data Engineering, Data Science, DevOps/Cloud Engineering
 - Fun Fact or Goal: Be more comfortable in using Git and practice software development methodologies to a decent level.
+
+## Samantha F. Mok
+
+- Preferred Name: sam
+- Skills: Python, Java, HTML, CSS, Javascript, PHP, UI design.
+- Tools: Figma, VSCode, Github
+- Field of Focus in Computer Science: Web Development, HCI
+- Fun Fact or Goal: Improve my sense for UI/UX design and build good software development habits.
