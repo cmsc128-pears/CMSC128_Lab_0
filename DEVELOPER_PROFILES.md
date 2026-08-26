@@ -31,3 +31,11 @@
 - Tools: Figma, VSCode, Github, Godot 4
 - Field of Focus in Computer Science: Software Engineering, Web Development, HCI, Database Systems
 - Fun Fact or Goal: Interested in exploring cybersecurity and want to learn the fundamentals of ethical hacking/pentesting.
+
+## Ryona Cassandra P. Honrado
+
+- Preferred Name: yona
+- Skills: Python, Java, HTML, CSS, Javascript, SQL, PHP
+- Tools: Figma, VSCode, Github
+- Field of Focus in Computer Science: Web Development, Software Engineering, Database Systems
+- Fun Fact or Goal: I also want to venture in the field of theoretical computer science, DSA, and cybersecurity.
